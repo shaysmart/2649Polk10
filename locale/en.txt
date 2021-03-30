@@ -1,0 +1,17 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 2649 Polk Street #10
+
+## Media
+
+### Title
+panorama_71ED01E3_7F7F_AABD_41DB_20E73DF77E47.label = Kitchen & Dining Room
+panorama_73585AA1_7F6B_9EBD_41DF_A242D0F63009.label = Entrance Hallway
+panorama_7502954E_7F6B_AB87_41CB_D7FF7F1927EA.label = Living Room
+panorama_750D4598_7F6B_6A8B_41D7_B5955978D8C5.label = Bedroom
+panorama_750D8AB9_7F6B_9E8D_41D8_447BC4190F1A.label = Bathroom
